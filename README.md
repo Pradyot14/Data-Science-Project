@@ -1,2 +1,3 @@
 # Data-Science-Project
-This is my repo for data science project.
+This is my Git Repository for data science project.
+Author - Pradyot
